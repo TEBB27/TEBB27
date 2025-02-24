@@ -1,10 +1,8 @@
-## Hi there 👋
+# Welcome to my GitHub Profile!
 
-<!--
-**TEBB27/TEBB27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm TEBB27! Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
-
+## About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Projects
+- [Project Name](link) - Description
+
+## Contact
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
